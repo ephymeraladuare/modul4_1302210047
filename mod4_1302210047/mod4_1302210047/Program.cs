@@ -1,4 +1,5 @@
-﻿using modul4_1302210047;
+﻿using mod4_1302210047;
+using modul4_1302210047;
 
 KodeBuah kb = new KodeBuah();
 Console.WriteLine(kb.getKode_Buah(KodeBuah.buah.Apel));
