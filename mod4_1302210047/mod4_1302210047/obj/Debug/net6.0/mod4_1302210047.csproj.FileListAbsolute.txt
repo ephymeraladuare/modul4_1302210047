@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\bin\Debug\net6.0\mod4_1302210047.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\bin\Debug\net6.0\mod4_1302210047.deps.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\bin\Debug\net6.0\mod4_1302210047.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\bin\Debug\net6.0\mod4_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\bin\Debug\net6.0\mod4_1302210047.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\refint\mod4_1302210047.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\mod4_1302210047.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\modul4_1302210047\mod4_1302210047\mod4_1302210047\obj\Debug\net6.0\ref\mod4_1302210047.dll
